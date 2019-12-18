@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\Group3-DemoCreateRepository\\DAL.Test\\DAL.Test.csproj": {}
+    "C:\\Users\\DUYET\\Desktop\\Project\\DAL.Test\\DAL.Test.csproj": {}
   },
   "projects": {
-    "D:\\github\\Group3-DemoCreateRepository\\DAL.Test\\DAL.Test.csproj": {
+    "C:\\Users\\DUYET\\Desktop\\Project\\DAL.Test\\DAL.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\Group3-DemoCreateRepository\\DAL.Test\\DAL.Test.csproj",
+        "projectUniqueName": "C:\\Users\\DUYET\\Desktop\\Project\\DAL.Test\\DAL.Test.csproj",
         "projectName": "DAL.Test",
-        "projectPath": "D:\\github\\Group3-DemoCreateRepository\\DAL.Test\\DAL.Test.csproj",
+        "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\DAL.Test\\DAL.Test.csproj",
         "packagesPath": "C:\\Users\\DUYET\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\Group3-DemoCreateRepository\\DAL.Test\\obj\\",
+        "outputPath": "C:\\Users\\DUYET\\Desktop\\Project\\DAL.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

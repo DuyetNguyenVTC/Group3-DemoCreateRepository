@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "Persistence >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -185,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\Group3-DemoCreateRepository\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\DUYET\\Desktop\\Project\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\github\\Group3-DemoCreateRepository\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\DUYET\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\Group3-DemoCreateRepository\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\DUYET\\Desktop\\Project\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,7 +221,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DUYET\\Desktop\\Project\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\Persistence\\Persistence.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

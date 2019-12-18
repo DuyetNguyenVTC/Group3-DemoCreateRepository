@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DUYET\\Desktop\\Project\\BL\\BL.csproj": {}
+    "C:\\Users\\DUYET\\Desktop\\Project\\PL\\PL.csproj": {}
   },
   "projects": {
     "C:\\Users\\DUYET\\Desktop\\Project\\BL\\BL.csproj": {
@@ -154,6 +154,63 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DUYET\\Desktop\\Project\\PL\\PL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DUYET\\Desktop\\Project\\PL\\PL.csproj",
+        "projectName": "PL",
+        "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\PL\\PL.csproj",
+        "packagesPath": "C:\\Users\\DUYET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DUYET\\Desktop\\Project\\PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUYET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DUYET\\Desktop\\Project\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\BL\\BL.csproj"
+              },
+              "C:\\Users\\DUYET\\Desktop\\Project\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\DUYET\\Desktop\\Project\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },
