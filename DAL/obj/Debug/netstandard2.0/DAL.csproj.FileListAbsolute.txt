@@ -1,0 +1,12 @@
+C:\Users\DUYET\Desktop\Project\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\DUYET\Desktop\Project\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\DUYET\Desktop\Project\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\DUYET\Desktop\Project\DAL\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\DUYET\Desktop\Project\DAL\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\DUYET\Desktop\Project\DAL\obj\Debug\netstandard2.0\DAL.pdb
